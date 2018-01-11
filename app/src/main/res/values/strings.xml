@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentA</string>
+    <string name="alias">老师叫我： %s</string>
+</resources>
